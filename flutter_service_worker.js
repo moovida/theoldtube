@@ -5,20 +5,18 @@ const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "index.html": "907ea7dfd6fd40a54c7cf1e81f9f8829",
 "/": "907ea7dfd6fd40a54c7cf1e81f9f8829",
-"main.dart.js": "f4db3c7b13b2b630d3c81a0f7df6b600",
+"main.dart.js": "4310f4157435e79b9a13a62a0cddb8c1",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "58a886ed8fc19ac18348b5d84edc5388",
-"assets/AssetManifest.json": "6700c2e667b398ab0fc72f0ca40c5384",
+"assets/AssetManifest.json": "88186f54b7e8ae3ad691543d1fbb2fdf",
 "assets/NOTICES": "7d0459ddf679333b29518512552304ef",
 "assets/FontManifest.json": "7d8b591add2d514ce75cdaf8bebda3fd",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
 "assets/fonts/Lobster-Regular.ttf": "9406d0ab606cf8cb91c41b65556bd836",
-"assets/assets/background.svg": "d1ef52ad6d26f0467b09c45e4c0a3042",
-"assets/assets/audio/cornflake.mp3": "71550b6a12273485dfe36702da88515a",
-"assets/assets/audio/layla.mp3": "4106e39a97b1a761cafffae63e7c7d5d",
+"assets/assets/background.svg": "b58c583c7e713fbedd0fb24f3f88b27e",
 "assets/assets/logo.svg": "c59f21c89da3033c81326402a28ae7c8"
 };
 
